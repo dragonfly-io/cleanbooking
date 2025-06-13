@@ -1,24 +1,17 @@
-# README
+# This week's Work
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Rails App with multi-tenanct setup via subdomain
+- Environment:
+ * Railis 3.4.4
+ * PostgresQL 17.5.1
+ * Node 22.16.0
+ * Navicat 16.3.8
 
-Things you may want to cover:
+2. Database Schema Design
 
-* Ruby version
+ - https://dbdiagram.io/d/cleanbooking-684adb581dff20a534c91a65
 
-* System dependencies
+3. Devise for auth (SuperAdmin, AgencyAdmin, Cleaner, Customer)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

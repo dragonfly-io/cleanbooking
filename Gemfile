@@ -47,6 +47,7 @@ gem 'devise'
 # For permissions/RBAC        
 gem 'pundit'                  
 
+gem 'fiddle'
 
 # gem 'sidekiq'                # (optional) For background jobs
 group :development, :test do
