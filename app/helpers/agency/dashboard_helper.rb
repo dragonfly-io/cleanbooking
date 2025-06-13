@@ -1,0 +1,2 @@
+module Agency::DashboardHelper
+end
