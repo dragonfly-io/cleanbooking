@@ -40,14 +40,14 @@ gem "thruster", require: false
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
-#For row-level multi-tenancy (subdomain mapping)
-gem 'acts_as_tenant'
+# For row-level multi-tenancy (subdomain mapping)
+gem "acts_as_tenant"
 # For authentication
-gem 'devise'
-# For permissions/RBAC        
-gem 'pundit'                  
+gem "devise"
+# For permissions/RBAC
+gem "pundit"
 
-gem 'fiddle'
+gem "fiddle"
 
 # gem 'sidekiq'                # (optional) For background jobs
 group :development, :test do

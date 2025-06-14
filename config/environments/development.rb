@@ -72,5 +72,4 @@ Rails.application.configure do
 
   config.hosts << /.*\.cleanbooking\.local/
   config.hosts << "cleanbooking.local"
-
 end
